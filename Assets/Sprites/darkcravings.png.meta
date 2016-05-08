@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: 0139aaca2134f54439b9bd0c39cab18b
+timeCreated: 1455673490
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: darkcravings_0
+    21300002: darkcravings_1
+    21300004: darkcravings_2
+    21300006: darkcravings_3
+    21300008: darkcravings_4
+    21300010: darkcravings_5
+    21300012: darkcravings_6
+    21300014: darkcravings_7
+    21300016: darkcravings_8
+    21300018: darkcravings_9
+    21300020: darkcravings_10
+    21300022: darkcravings_11
+    21300024: darkcravings_12
+    21300026: darkcravings_13
+    21300028: darkcravings_14
+    21300030: darkcravings_15
+    21300032: darkcravings_16
+    21300034: darkcravings_17
+    21300036: darkcravings_18
+    21300038: darkcravings_19
+    21300040: darkcravings_20
+    21300042: darkcravings_21
+    21300044: darkcravings_22
+    21300046: darkcravings_23
+    21300048: darkcravings_24
+    21300050: darkcravings_25
+    21300052: darkcravings_26
+    21300054: darkcravings_27
+    21300056: darkcravings_28
+    21300058: darkcravings_29
+    21300060: darkcravings_30
+    21300062: darkcravings_31
+    21300064: darkcravings_32
+    21300066: darkcravings_33
+    21300068: darkcravings_34
+    21300070: darkcravings_35
+    21300072: darkcravings_36
+    21300074: darkcravings_37
+    21300076: darkcravings_38
+    21300078: darkcravings_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 120
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: darkcravings_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -9, y: 13}
+        - {x: -9, y: -12}
+        - {x: -7, y: -14}
+        - {x: 6, y: -14}
+        - {x: 10, y: -12}
+        - {x: 10, y: 10}
+        - {x: 8, y: 14}
+    - name: darkcravings_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: -6, y: 14}
+        - {x: -10, y: 9}
+        - {x: -10, y: -13}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 9, y: -12}
+        - {x: 9, y: 10}
+    - name: darkcravings_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -10, y: 14}
+        - {x: -10, y: -14}
+        - {x: 9, y: -14}
+        - {x: 10, y: -12}
+        - {x: 10, y: 12}
+    - name: darkcravings_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -10, y: 9}
+        - {x: -10, y: -7}
+        - {x: -8, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: 14}
+    - name: darkcravings_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 5, y: 13}
+        - {x: -2, y: 13}
+        - {x: -10, y: 10}
+        - {x: -10, y: -7}
+        - {x: -7, y: -13}
+        - {x: 2, y: -13}
+        - {x: 6, y: -12}
+        - {x: 10, y: -7}
+        - {x: 10, y: 6}
+    - name: darkcravings_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -6}
+        - {x: -8, y: -8}
+        - {x: -4, y: -12}
+        - {x: 2, y: -12}
+        - {x: 8, y: -10}
+        - {x: 8, y: 0}
+        - {x: 3, y: 1}
+        - {x: -5, y: 1}
+        - {x: -6, y: -1}
+    - name: darkcravings_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 13}
+        - {x: -14, y: 10}
+        - {x: -14, y: -7}
+        - {x: -6, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: darkcravings_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 9}
+        - {x: 3, y: 11}
+        - {x: -7, y: 11}
+        - {x: -10, y: 6}
+        - {x: -10, y: -4}
+        - {x: -6, y: -13}
+        - {x: -1, y: -13}
+        - {x: 4, y: -11}
+        - {x: 6, y: -10}
+        - {x: 10, y: -4}
+        - {x: 10, y: 2}
+    - name: darkcravings_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -14}
+        - {x: 9, y: -14}
+        - {x: 9, y: 9}
+    - name: darkcravings_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -5, y: 13}
+        - {x: -10, y: 6}
+        - {x: -10, y: -8}
+        - {x: -7, y: -12}
+        - {x: -4, y: -13}
+        - {x: 5, y: -13}
+        - {x: 10, y: -9}
+        - {x: 10, y: 9}
+    - name: darkcravings_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -9, y: 12}
+        - {x: -9, y: -13}
+        - {x: -6, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: 11}
+        - {x: 8, y: 13}
+    - name: darkcravings_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -10, y: -9}
+        - {x: -8, y: -14}
+        - {x: 9, y: -14}
+        - {x: 9, y: 12}
+        - {x: 8, y: 13}
+    - name: darkcravings_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -10, y: 12}
+        - {x: -10, y: -11}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 10, y: -9}
+        - {x: 10, y: 11}
+        - {x: 5, y: 13}
+    - name: darkcravings_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -10, y: 6}
+        - {x: -10, y: -9}
+        - {x: -9, y: -13}
+        - {x: -2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: 13}
+    - name: darkcravings_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -10, y: 11}
+        - {x: -10, y: -11}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -9}
+        - {x: 10, y: 5}
+        - {x: 2, y: 14}
+    - name: darkcravings_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 0}
+        - {x: -8, y: -1}
+        - {x: -8, y: -9}
+        - {x: -3, y: -12}
+        - {x: 2, y: -12}
+        - {x: 8, y: -8}
+        - {x: 8, y: -4}
+        - {x: 7, y: 0}
+    - name: darkcravings_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -8, y: 12}
+        - {x: -13, y: 4}
+        - {x: -13, y: -9}
+        - {x: -5, y: -14}
+        - {x: 8, y: -14}
+        - {x: 13, y: -12}
+        - {x: 14, y: -4}
+        - {x: 14, y: 11}
+        - {x: 5, y: 13}
+    - name: darkcravings_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -9, y: 11}
+        - {x: -10, y: 8}
+        - {x: -10, y: -3}
+        - {x: -6, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -3}
+        - {x: 10, y: 6}
+        - {x: 5, y: 13}
+    - name: darkcravings_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -9, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 10}
+    - name: darkcravings_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -10, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -12}
+        - {x: 10, y: 8}
+        - {x: 2, y: 13}
+    - name: darkcravings_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -9, y: 13}
+        - {x: -9, y: -12}
+        - {x: -7, y: -14}
+        - {x: 6, y: -14}
+        - {x: 10, y: -12}
+        - {x: 10, y: 10}
+        - {x: 8, y: 14}
+    - name: darkcravings_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: -6, y: 14}
+        - {x: -10, y: 9}
+        - {x: -10, y: -13}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 9, y: -12}
+        - {x: 9, y: 10}
+    - name: darkcravings_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -10, y: 14}
+        - {x: -10, y: -14}
+        - {x: 9, y: -14}
+        - {x: 10, y: -12}
+        - {x: 10, y: 12}
+    - name: darkcravings_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -10, y: 9}
+        - {x: -10, y: -7}
+        - {x: -8, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: 14}
+    - name: darkcravings_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 13}
+        - {x: -10, y: 10}
+        - {x: -10, y: -7}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+        - {x: 2, y: 13}
+    - name: darkcravings_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 2}
+        - {x: -5, y: 2}
+        - {x: -8, y: 1}
+        - {x: -8, y: -10}
+        - {x: -2, y: -12}
+        - {x: 5, y: -12}
+        - {x: 8, y: -9}
+        - {x: 8, y: 0}
+    - name: darkcravings_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 12}
+        - {x: -7, y: 12}
+        - {x: -7, y: 10}
+        - {x: -12, y: -4}
+        - {x: -12, y: -6}
+        - {x: -10, y: -8}
+        - {x: 0, y: -13}
+        - {x: 6, y: -13}
+        - {x: 9, y: -12}
+        - {x: 13, y: 2}
+        - {x: 13, y: 6}
+        - {x: 4, y: 10}
+    - name: darkcravings_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 9}
+        - {x: -10, y: -6}
+        - {x: -5, y: -12}
+        - {x: -2, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -7}
+        - {x: 10, y: 0}
+        - {x: 6, y: 8}
+    - name: darkcravings_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -9, y: -13}
+        - {x: 8, y: -13}
+        - {x: 9, y: -9}
+        - {x: 9, y: 10}
+        - {x: 6, y: 13}
+    - name: darkcravings_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -10, y: 12}
+        - {x: -10, y: -10}
+        - {x: -9, y: -13}
+        - {x: 5, y: -13}
+        - {x: 10, y: -10}
+        - {x: 10, y: 8}
+        - {x: 1, y: 13}
+    - name: darkcravings_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -9, y: 12}
+        - {x: -9, y: -12}
+        - {x: -8, y: -14}
+        - {x: 9, y: -14}
+        - {x: 10, y: -11}
+        - {x: 10, y: 8}
+        - {x: 7, y: 13}
+    - name: darkcravings_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -10, y: 8}
+        - {x: -10, y: -14}
+        - {x: 9, y: -14}
+        - {x: 9, y: 8}
+        - {x: 4, y: 13}
+    - name: darkcravings_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -10, y: -13}
+        - {x: -9, y: -14}
+        - {x: 3, y: -14}
+        - {x: 10, y: -12}
+        - {x: 10, y: 11}
+        - {x: 7, y: 13}
+    - name: darkcravings_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -10, y: -14}
+        - {x: 2, y: -14}
+        - {x: 10, y: -12}
+        - {x: 10, y: 8}
+        - {x: 8, y: 13}
+    - name: darkcravings_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -10, y: 11}
+        - {x: -10, y: -11}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -9}
+        - {x: 10, y: 5}
+        - {x: 2, y: 14}
+    - name: darkcravings_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -5}
+        - {x: -8, y: -7}
+        - {x: -4, y: -11}
+        - {x: 2, y: -11}
+        - {x: 8, y: -9}
+        - {x: 8, y: 1}
+        - {x: 3, y: 2}
+        - {x: -5, y: 2}
+        - {x: -6, y: 0}
+    - name: darkcravings_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -8, y: 12}
+        - {x: -13, y: 4}
+        - {x: -13, y: -9}
+        - {x: -5, y: -14}
+        - {x: 8, y: -14}
+        - {x: 13, y: -12}
+        - {x: 14, y: -4}
+        - {x: 14, y: 11}
+        - {x: 5, y: 13}
+    - name: darkcravings_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -9, y: 11}
+        - {x: -10, y: 8}
+        - {x: -10, y: -3}
+        - {x: -6, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -3}
+        - {x: 10, y: 6}
+        - {x: 5, y: 13}
+    - name: darkcravings_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -9, y: -14}
+        - {x: 8, y: -14}
+        - {x: 9, y: -10}
+        - {x: 9, y: 9}
+        - {x: 6, y: 12}
+    - name: darkcravings_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -10, y: -12}
+        - {x: 10, y: -12}
+        - {x: 10, y: 13}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
